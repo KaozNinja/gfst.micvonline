@@ -1,4 +1,4 @@
 # gfst.micvonline
-projecto pagina web
-
+Proyecto página web
+by
 Gastón Fredy Soria Torrico
